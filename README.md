@@ -1,5 +1,8 @@
 This is a working file for SALAD. We need to activate the containers in SALAD before proceeding with anything.
 
+#Used this Model
+stable-diffusion-prompthero-openjourney-v4
+
 Using Stable Diffusion to generate images.
 
 
